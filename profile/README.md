@@ -1,0 +1,12 @@
+# Sample Projects
+
+The sample projects included in these repositories offer a concise yet effective demonstration of our components, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. The projects provide a solid foundation for developers to explore and customize, enabling them to construct more elaborate applications while understanding the fundamental concepts and mechanisms at play.
+
+## We Are Hiring!
+
+We are always looking for self-motivated, talented, and hard-working individuals who want to work in an exciting and fast-paced environment using the latest technology and products. If you fit the job description please apply [here](https://www.callback.com/company/jobs).
+
+## Get in Touch with the Team
+Did you find a bug or hava a feature request? We want to [hear from you](https://www.callback.com/support/submit)!
+
+**External Links:** [About Us](https://www.callback.com/company/) • [Website](https://www.callback.com/)
